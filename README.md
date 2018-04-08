@@ -61,3 +61,5 @@ You can verify the services using Postman by the following steps:
 ![Alt text](https://github.com/ServiceComb/seckill/blob/master/etc/RequestGrabCoupon.png)
 4. Query acquired coupons
 ![Alt text](https://github.com/ServiceComb/seckill/blob/master/etc/QueryAcquiredCoupons.png)
+
+good
